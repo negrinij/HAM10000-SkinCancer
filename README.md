@@ -6,4 +6,4 @@ On this coursework we were required to apply three different ANN models to solve
 
 This was a coursework for Artificial Neural Networks discipline in Coventry University. Please refer to the presentation and the written coursework for further information.
 
-* More recently, I have experimented with XCeption architecture achieving better results. Refer to the Notebook to see the results. 
+* More recently, I have experimented with XCeption architecture achieving better results. Refer to the [Notebook](https://nbviewer.jupyter.org/github/negrinij/HAM10000-SkinCancer/blob/master/ham10000-analysis-and-model-comparison.ipynb) to see the results. 
